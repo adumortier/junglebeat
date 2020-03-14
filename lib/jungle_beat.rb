@@ -19,7 +19,4 @@ class JungleBeat
     `say -r 500 #{list.to_string}`
   end
 
-  def try_this
-  end
-  
 end
