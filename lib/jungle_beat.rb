@@ -18,5 +18,5 @@ class JungleBeat
   def play 
     `say -r 500 #{list.to_string}`
   end
-  
+
 end

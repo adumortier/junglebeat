@@ -106,4 +106,5 @@ class LinkedListTest < Minitest::Test
     assert_equal 2, @linked_list.count
     assert_equal 'doop deep', @linked_list.to_string
   end
+
 end
